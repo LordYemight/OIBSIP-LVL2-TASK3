@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OIBSIP-LVL2-TASK3/static/css/main.1b95bd75.css",
+    "main.js": "/OIBSIP-LVL2-TASK3/static/js/main.48d27a40.js",
+    "index.html": "/OIBSIP-LVL2-TASK3/index.html",
+    "main.1b95bd75.css.map": "/OIBSIP-LVL2-TASK3/static/css/main.1b95bd75.css.map",
+    "main.48d27a40.js.map": "/OIBSIP-LVL2-TASK3/static/js/main.48d27a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b95bd75.css",
+    "static/js/main.48d27a40.js"
+  ]
+}
